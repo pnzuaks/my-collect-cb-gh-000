@@ -9,7 +9,7 @@ def my_collect(collection)
   
 end
 
-  collection
+  array
 end
 
 
